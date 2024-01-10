@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\bin\Debug\net6.0\Ex26.exe
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\bin\Debug\net6.0\Ex26.deps.json
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\bin\Debug\net6.0\Ex26.runtimeconfig.json
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\bin\Debug\net6.0\Ex26.dll
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\bin\Debug\net6.0\Ex26.pdb
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\obj\Debug\net6.0\Ex26.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\obj\Debug\net6.0\Ex26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\obj\Debug\net6.0\Ex26.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\obj\Debug\net6.0\Ex26.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\obj\Debug\net6.0\Ex26.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\obj\Debug\net6.0\Ex26.dll
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\obj\Debug\net6.0\refint\Ex26.dll
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\obj\Debug\net6.0\Ex26.pdb
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\obj\Debug\net6.0\Ex26.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Vanesa-school\facultate info\FP-setul 3\Ex26\obj\Debug\net6.0\ref\Ex26.dll
